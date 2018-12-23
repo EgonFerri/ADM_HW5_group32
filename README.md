@@ -14,7 +14,7 @@ The Wikicat hyperlink graph in usage are downloaded [here](https://drive.google.
 ## Script descriptions
 
 1. __`Homework5.ipynb`__: 
-	> This script provides the code of our analisys. To maximize the visual experience we suggest to read the notebook from [Here](https://nbviewer.jupyter.org/github/EgonFerri/ADM_HW5_group32/blob/master/HW5.ipynb).
+	> This script provides the code of our analisys. To maximize the visual experience we suggest to read the notebook from [Here](https://nbviewer.jupyter.org/github/EgonFerri/ADM_HW5_group32/blob/master/HW5.ipynb?flush_cache=true).
 
 <p align="center">
 <img src="https://static1.squarespace.com/static/5a4fb547b0786969790f230b/t/5a626c17ec212d0fa48d9fe5/1516399656615/Wikipedia+Banner">
