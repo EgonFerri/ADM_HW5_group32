@@ -1,5 +1,6 @@
 # ADM_HW5_group32
-### Egon Ferri, Yousef Abbar, Reza Pourrahim
+This is the repository for the 5th homework of the course ADM 2018 at Sapienza University. The authors of this repository are: 
+##### Egon Ferri, Yousef Abbar, Reza Pourrahim
 
 # Homework 5 - Visit the Wikipedia hyperlinks graph!
 In this assignment we perform an analysis of the Wikipedia Hyperlink graph. In particular, given extra information about the categories to which an article belongs to, we are curious to rank the articles according to some criteria. 
